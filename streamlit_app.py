@@ -1,9 +1,3 @@
-numpy==1.25.2
-pickle-mixin==1.0.2
-streamlit==1.26.0
-streamlit-option-menu==0.3.6
-scikit-learn==1.2.2
-
 # -*- coding: utf-8 -*-
 """
 Created on Sat Sep  2 16:22:34 2023
